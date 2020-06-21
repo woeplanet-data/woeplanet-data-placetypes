@@ -1,6 +1,6 @@
 # woeplanet-data-placetypes
 
-This repository contains records for Woeplanet *placetypes*.
+This repository contains records for WoePlanet (nee GeoPlanet) *placetypes*.
 
 # The Short Version
 
@@ -16,4 +16,4 @@ Rather than create a single repository with every record the plan is to create s
 
 This repository contains _those_ placetypes, or at least the definition of what each GeoPlanet placetype _means_.
 
-Each placetype is stored as a separate GeoJSON file. GeoJSON was chosen because it has wide support in variety of GIS tools, most programming languages (and specifically JavaScript), can be edited using any old text editor (or Github's own "edit this page" functionality) and allows for any number of custom key/value pairs using the GeoJSON properties dictionary.
+Each placetype is stored as a separate JSON file. SON was chosen because it has wide support in variety of tools, most programming languages (and specifically JavaScript), can be edited using any old text editor (or Github's own "edit this page" functionality) and allows for any number of custom key/value pairs using the GeoJSON properties dictionary.
