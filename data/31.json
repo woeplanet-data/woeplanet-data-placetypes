@@ -1,0 +1,6 @@
+{
+    "id": 31,
+    "name": "Time Zone",
+    "shortname": "TimeZone",
+    "description": "An area defined by the Olson standard (tz database)"
+}

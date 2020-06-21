@@ -1,0 +1,6 @@
+{
+    "id": 32,
+    "name": "Nearby Intersection",
+    "shortname": "NearbyIntersection",
+    "description": "An intersection of streets that is nearby to the streets in a query string"
+}

@@ -1,0 +1,6 @@
+{
+    "id": 25,
+    "name": "Zone",
+    "shortname": "Zone",
+    "description": "An area known within a specific context such as MSA or area code"
+}
